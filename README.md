@@ -1,4 +1,4 @@
-# Testando gRPC
+# Testando gRPC com Golang
 
 Para rodar o server:
 
